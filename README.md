@@ -39,6 +39,11 @@ https://github.com/user-attachments/assets/69ad8d54-38fd-4531-acd9-dc8d6dcc2a47
 
 ![The four maps as the minimap shows them](media/maps.png)
 
+## Technical notes
+
+- [Armour and ballistics](docs/armour-and-ballistics.md): how a shell gets from the gun to a damage number
+- [The AI](docs/ai.md): how the computer players choose where to stand, what to shoot and when
+
 ## Built with
 
 Unity 6, C#. About 13,000 lines across 81 scripts; no Asset Store packages.
