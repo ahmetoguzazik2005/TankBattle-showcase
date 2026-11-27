@@ -43,6 +43,7 @@ https://github.com/user-attachments/assets/69ad8d54-38fd-4531-acd9-dc8d6dcc2a47
 
 - [Armour and ballistics](docs/armour-and-ballistics.md): how a shell gets from the gun to a damage number
 - [The AI](docs/ai.md): how the computer players choose where to stand, what to shoot and when
+- [Simulation](docs/simulation.md): how a design becomes a moving tank, following the hills, ramming and falling trees
 
 ## Built with
 
