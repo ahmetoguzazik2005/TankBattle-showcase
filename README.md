@@ -6,7 +6,6 @@ code**: the maps, the tank models, the effects, the interface and the sound. The
 
 <!-- Gameplay video: on github.com, open this file, click the pencil (Edit), drag your .mp4 here
      (under 10 MB), and GitHub replaces it with a link that plays right on this page. -->
-**▶ Gameplay video:** *(drag gameplay.mp4 here in GitHub's editor)*
 
 ![Battle](media/battle.png)
 
